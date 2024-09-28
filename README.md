@@ -1,7 +1,7 @@
 # MESOP - SHOWCASE
 
 ## What's MESOP?
-Please read the Introduction of Medium: [](../Intr0_by_Medium.md)
+Please read the Introduction of Medium: [Intro by Medium](../Intro_by_Medium.md)
 
 ## Getting Started
 
@@ -50,13 +50,13 @@ If you are using __requirements.txt__ or __pyproject.toml__ to manage your depen
 
 ## Demo Apps
 
-* [Starter Kit](../mesop/main.py)
-* [helloworld.py](../mesop/helloworld.py)
-* [counter.py](../mesop/counter.py)
+* [Starter Kit](../main.py)
+* [helloworld.py](../helloworld.py)
+* [counter.py](../counter.py)
 
 ## Mesop DuoChat Codelab
-* 1 - Overview & Setup: [DuoChat 1](../mesop/Mesop-DuoChat/DuoChat-Codelab-Part-1.md)
-* 2 - Building the basic UI: [DuoChat 2](../mesop/Mesop-DuoChat/DuoChat-Codelab-Part-2.md)
-* 3 - Managing state & dialogs: [DuoChat 3](../mesop/Mesop-DuoChat/DuoChat-Codelab-Part-3.md)
-* 4 - Integrating AI APIs: [DuoChat 4](../mesop/Mesop-DuoChat/DuoChat-Codelab-Part-4.md)
-* 5 - Wrapping it up: [DuoChat 5](../mesop/Mesop-DuoChat/DuoChat-Codelab-Part-5.md)  
+* 1 - Overview & Setup: [DuoChat 1](../Mesop-DuoChat/DuoChat-Codelab-Part-1.md)
+* 2 - Building the basic UI: [DuoChat 2](../Mesop-DuoChat/DuoChat-Codelab-Part-2.md)
+* 3 - Managing state & dialogs: [DuoChat 3](../Mesop-DuoChat/DuoChat-Codelab-Part-3.md)
+* 4 - Integrating AI APIs: [DuoChat 4](../Mesop-DuoChat/DuoChat-Codelab-Part-4.md)
+* 5 - Wrapping it up: [DuoChat 5](../Mesop-DuoChat/DuoChat-Codelab-Part-5.md)  
